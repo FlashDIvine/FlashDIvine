@@ -3,7 +3,30 @@
 </table>
 
 ---
-
+<table border="0" width="100%">
+  <tr valign="center">
+    <td width="38%" align="center">
+      <!-- Gambar Render Arlecchino Transparan -->
+      <img src="./assets/arlecchino-render.png" width="100%" alt="Arlecchino Render" />
+    </td>
+    <td width="62%">
+      <h2>🩸 The Knave | Executive Operative</h2>
+      <p>
+        <i>"The House of the Hearth begs favors from no one — like a spider, we hunt for what we want."</i>
+      </p>
+      <ul>
+        <li>🌑 <b>Identitas:</b> [NAMA LENGKAP ATAU USERNAME]</li>
+        <li>⚔️ <b>Fokus:</b> Distributed Systems, Backend Architecture & Cloud Security</li>
+        <li>🏛️ <b>Afiliasi:</b> Fatui Intelligence / House of the Hearth</li>
+        <li>📜 <b>Prinsip:</b> Zero Technical Debt, Strict Typing & Deterministic Logic</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Operational-E61937?style=flat-square&logo=target&logoColor=white&labelColor=0D0D11" />
+        <img src="https://img.shields.io/badge/Vision-Pyro-E61937?style=flat-square&logo=flame&logoColor=white&labelColor=0D0D11" />
+      </p>
+    </td>
+  </tr>
+</table>
 ### ⚔️ The Arsenal & Disciplines
 
 <div align="center">
