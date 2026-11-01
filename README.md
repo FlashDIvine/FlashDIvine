@@ -12,17 +12,19 @@
 
 ## About Me
 
-I'm Ade Ainun Najib, a software development student interested in building modern applications and exploring AI-native software engineering.
+ I'm **Ade Ainun Najib**, a software development student and builder passionate about crafting modern applications and exploring **AI-native      
+    software engineering**
+  
+  I enjoy deconstructing how software works under the hood and turning those architectural insights into reliable, production-grade systems:
+  
+  - 🛠️ **Full-Stack & Backend Engineering:** Crafting clean, type-safe APIs, resilient data flows (ACL patterns), and responsive modern interfaces.                
+    - 🤖 **AI-Native & Agentic Workflows:** Developing autonomous agent pipelines, Model Context Protocol (MCP) integrations, and developer-first automations.       
+    - 🔬 **Systems & Deep Architecture:** Exploring system design from binary/native disassembly to multi-threaded engines and cloud infrastructure.                 
+  
+    **Focus:** AI-Native Engineering & Full-Stack Development  
+    **Interests:** Backend Systems, Web Architecture, AI Agents, Automation, Reverse-Engineering  
+    **Currently Exploring:** Distributed System Design, Cloud Infrastructure, and AI Engineering
 
-My primary focus is full-stack development, backend engineering, API integration, and AI-assisted development workflows.
-
-I enjoy turning ideas into functional software, understanding system architecture, and continuously improving my engineering skills.
-
-Focus: AI-Native Engineering & Full-Stack Development
-
-Interests: Backend Systems, Web Development, AI Agents, Automation
-
-Currently Exploring: System Design, Cloud Infrastructure, and AI Engineering
 
 GitHub: @FlashDIvine
 
