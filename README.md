@@ -1,89 +1,107 @@
+🩸 Confidential Dossier: Operative Records
+Key Metrics:
+
+Architecture: Microservices, Event-Driven, Kernel Telemetry
+
+Infrastructure: Containerized, Declarative, Automated CI/CD
+
+Operational Directive: "Beg favors from no one; build what is required."
+
+
+</td>
+</tr>
+</table>
+
 ---
 
-### ❖ DOKTRIN PENGEMBANGAN & SPESIALISASI
-
-Eksekusi perangkat lunak diarahkan pada integritas arsitektur mutlak dan ketahanan komputasi tinggi. Redundansi dependensi eksternal dieliminasi secara sistematis guna menjamin efisiensi runtime dan determinisme algoritma.
-
-- ⚔️ **Sistem Inti & Komputasi Konkuren:** Rekayasa backend berdaya tampung masif, orkestrasi microservices, dan manajemen alokasi memori berlatensi rendah.
-- 🩸 **Penyelesaian Anomali (Bond of Life):** Eliminasi bug kritis dan peredaman anomali sistemik dengan penanganan galat asinkron yang ketat.
-- 🕯️ **Integritas Data Transaksional:** Arsitektur basis data relasional dengan proteksi kriptografis end-to-end tanpa toleransi kebocoran data.
-- 🕸️ **Jaringan Operasional Terdistribusi:** Penjadwalan pipeline CI/CD otonom, observabilitas kluster kontainer, dan isolasi lingkungan produksi.
-
----
-
-### ❖ INVENTARIS TEKNOLOGI & PERSENJATAAN
+### ⚔️ The Arsenal & Disciplines
 
 <div align="center">
 
-<!-- BAHASA PEMROGRAMAN UTAMA -->
+#### Primary Weapons (Core Languages)
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-0D0E12?style=for-the-badge&logo=rust&logoColor=white&color=8A0A10" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-0D0E12?style=for-the-badge&logo=cplusplus&logoColor=white&color=8A0A10" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-0D0E12?style=for-the-badge&logo=go&logoColor=white&color=8A0A10" alt="Go"/>
-  <img src="https://img.shields.io/badge/TypeScript-0D0E12?style=for-the-badge&logo=typescript&logoColor=white&color=8A0A10" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-0D0E12?style=for-the-badge&logo=python&logoColor=white&color=8A0A10" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-0D0D11?style=for-the-badge&logo=rust&logoColor=E61937&labelColor=1A1A24" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-0D0D11?style=for-the-badge&logo=go&logoColor=E61937&labelColor=1A1A24" alt="Go" />
+  <img src="https://img.shields.io/badge/TypeScript-0D0D11?style=for-the-badge&logo=typescript&logoColor=E61937&labelColor=1A1A24" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-0D0D11?style=for-the-badge&logo=python&logoColor=E61937&labelColor=1A1A24" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-0D0D11?style=for-the-badge&logo=c%2B%2B&logoColor=E61937&labelColor=1A1A24" alt="C++" />
 </p>
 
-<!-- PLATFORM & INFRASTRUKTUR -->
+#### Tactical Gears (Infrastructure & Data Engine)
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-0D0E12?style=for-the-badge&logo=linux&logoColor=white&color=8A0A10" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kubernetes-0D0E12?style=for-the-badge&logo=kubernetes&logoColor=white&color=8A0A10" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Docker-0D0E12?style=for-the-badge&logo=docker&logoColor=white&color=8A0A10" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D0E12?style=for-the-badge&logo=postgresql&logoColor=white&color=8A0A10" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-0D0E12?style=for-the-badge&logo=redis&logoColor=white&color=8A0A10" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0D0D11?style=for-the-badge&logo=kubernetes&logoColor=E61937&labelColor=1A1A24" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-0D0D11?style=for-the-badge&logo=docker&logoColor=E61937&labelColor=1A1A24" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0D11?style=for-the-badge&logo=postgresql&logoColor=E61937&labelColor=1A1A24" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-0D0D11?style=for-the-badge&logo=redis&logoColor=E61937&labelColor=1A1A24" alt="Redis" />
+  <img src="https://img.shields.io/badge/Linux-0D0D11?style=for-the-badge&logo=linux&logoColor=E61937&labelColor=1A1A24" alt="Linux" />
+  <img src="https://img.shields.io/badge/GraphQL-0D0D11?style=for-the-badge&logo=graphql&logoColor=E61937&labelColor=1A1A24" alt="GraphQL" />
 </p>
 
 </div>
 
 ---
 
-### ❖ METRIK LOGISTIK & AKTIVITAS HARBINGER
+### 📜 Hearth Telemetry & Registry
 
 <div align="center">
 
-<!-- TABEL TATA LETAK DUA KOLOM UNTUK KARTU STATS DAN STREAK -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username={GITHUB_USERNAME}&show_icons=true&bg_color=0D0E12&title_color=E61C24&text_color=D4D7E1&icon_color=E61C24&border_color=8A0A10&hide_border=false" width="100%" alt="GitHub Overall Stats" />
+<table border="0" width="100%">
+  <tr align="center">
+    <td width="50%">
+      <!-- GITHUB STATS DENGAN THEME ARLECCHINO HEX OVERRIDES -->
+      <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB]&show_icons=true&title_color=E61937&icon_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=6&hide_border=false" width="100%" alt="GitHub Core Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user={GITHUB_USERNAME}&background=0D0E12&border=8A0A10&stroke=2B2D38&ring=E61C24&fire=E61C24&currStreakNum=FFFFFF&sideNums=D4D7E1&currStreakLabel=E61C24&dates=7E828C" width="100%" alt="GitHub Streak Tracker" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&layout=compact&bg_color=0D0E12&title_color=E61C24&text_color=D4D7E1&border_color=8A0A10&hide_border=false" width="100%" alt="Top Languages Overview" />
+    <td width="50%">
+      <!-- TOP LANGUAGES DENGAN PALET TERKALIBRASI -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB]&layout=compact&title_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=6&hide_border=false" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<!-- GRAFIK AKTIVITAS 31 HARI PENUH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={GITHUB_USERNAME}&bg_color=0D0E12&color=D4D7E1&line=E61C24&point=FFFFFF&area=true&area_color=8A0A10&border_color=2B2D38&custom_title=BALLAD%20OF%20CONTRIBUTION%20RECORDS" width="100%" alt="GitHub Activity Graph" />
-</p>
+<br>
+
+<!-- GITHUB STREAK STATS DENGAN ACCENT FIRE & RING CRIMSON -->
+<img src="https://streak-stats.demolab.com/?user=[USERNAME_GITHUB]&background=0D0D11&border=4A0E17&stroke=4A0E17&ring=E61937&fire=E61937&currStreakNum=E8E8EC&sideNums=E8E8EC&currStreakLabel=E61937&border_radius=6" width="98%" alt="Execution Streak" />
 
 </div>
 
 ---
 
-### ❖ REPOSITORI TERPILIH // OPERASI KHUSUS
+### 🛡️ Active Deployments & Missions
 
-| Nama Operasi | Sasaran Arsitektural | Stack Teknologi | Status Sistem |
+| Operasi / Proyek | Klasifikasi | Arsitektur Teknis | Status Eksekusi |
 | :--- | :--- | :--- | :--- |
-| **Balemoon-Engine** | Mesin pemrosesan transaksi berlatensi ultra-rendah untuk arsitektur event-driven terdistribusi. | `Rust`, `Tokio`, `gRPC` | `ACTIVE // OPTIMIZED` |
-| **All-Is-Ash Telemetry** | Platform analitik dan ingestion log real-time berskala tinggi berbasis partisi terdistribusi. | `Go`, `Apache Kafka`, `ClickHouse` | `DEPLOYED` |
-| **Hearth-Guardian Vault** | Layanan otorisasi berbasis Zero Trust dengan protokol WebAuthn dan enkripsi asimetris. | `TypeScript`, `PostgreSQL`, `Vault` | `SEALED` |
+| **`Project-Aegis`** | Zero-Trust Auth Service | Rust, gRPC, Redis | `Production Deployment` |
+| **`Balemoon-Engine`** | High-Throughput Ingestion Queue | Go, Kafka, PostgreSQL | `Active Monitoring` |
+| **`Hearth-Orchestrator`**| Automated IaC Pipeline | Terraform, Kubernetes, GitHub Actions | `Continuous Deployment` |
 
 ---
 
+### 📡 Encrypted Dispatch & Wire
+
 <div align="center">
 
-<!-- FOOTER DIVIDER: CRISP SLICE TERMINATION -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=E61C24,8A0A10,0D0E12&height=90&section=footer" width="100%" alt="Arlecchino Footer Divider"/>
+<p align="center">
+  Instruksi strategis, pertukaran intelijen, atau tawaran kolaborasi teknis dapat dikirim melalui jalur berikut:
+</p>
 
 <p align="center">
-  <sub>Operasional di bawah pengawasan langsung <b>The Fourth Fatui Harbinger, Peruere</b>. Seluruh anomali sistemik akan diselesaikan dengan disiplin mutlak.</sub>
+  <a href="mailto:[EMAIL_USER]">
+    <img src="https://img.shields.io/badge/Dispatch_Letter-0D0D11?style=for-the-badge&logo=gmail&logoColor=E61937&labelColor=1A1A24" alt="Email Direct" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/[LINKEDIN_USER]">
+    <img src="https://img.shields.io/badge/Fatui_Registry-0D0D11?style=for-the-badge&logo=linkedin&logoColor=E61937&labelColor=1A1A24" alt="LinkedIn Profile" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/[DISCORD_ID]">
+    <img src="https://img.shields.io/badge/Secure_Radio-0D0D11?style=for-the-badge&logo=discord&logoColor=E61937&labelColor=1A1A24" alt="Discord Channel" />
+  </a>
 </p>
+
+<br>
+
+<!-- FOOTER DIVIDER WAVE DINAMIS -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D11,55:1F0408,100:E61937&height=90&section=footer" width="100%" alt="Footer Arlecchino" />
 
 </div>
