@@ -89,12 +89,16 @@ GitHub: @FlashDIvine
 ---
 ## GitHub Analytics
 
-<div align="center">
+ <div align="center">
+      <h3>🐍 Tactical Execution Snake</h3>                                                                                                                           
+      <picture>
+        <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg">  
+        <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg" width="100%"> 
+      </picture>
+    </div>
 
-
-<img width="80%" src="https://streak-stats.demolab.com/?user=FlashDIvine&background=0D0D11&border=4A0E17&stroke=4A0E17&ring=E61937&fire=E61937&currStreakNum=E8E8EC&sideNums=E8E8EC&currStreakLabel=E61937&border_radius=8" alt="GitHub Streak" />
-
-</div>
 ---
 
 ## Connect
