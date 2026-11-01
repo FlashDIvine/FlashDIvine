@@ -23,7 +23,7 @@
   
    **Focus:** AI-Native Engineering & Full-Stack Development  
    **Interests:** Backend Systems, Web Architecture, AI Agents, Automation, Reverse-Engineering  
-   **Currently Exploring:** Distributed System Design, Cloud Infrastructure, and AI Engineering
+   **Currently Exploring:** Distributed System Design, Full-Stack Engineering, AI-Native Engineering, and Software Reverse Engineering
 
 
 GitHub: @FlashDIvine
