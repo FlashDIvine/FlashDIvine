@@ -89,11 +89,6 @@ GitHub: @FlashDIvine
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlashDIvine&show_icons=true&title_color=E61937&icon_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" height="180" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDIvine&layout=compact&title_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" height="180" alt="Top Languages" />
-
-<br/><br/>
 
 <img width="80%" src="https://streak-stats.demolab.com/?user=FlashDIvine&background=0D0D11&border=4A0E17&stroke=4A0E17&ring=E61937&fire=E61937&currStreakNum=E8E8EC&sideNums=E8E8EC&currStreakLabel=E61937&border_radius=8" alt="GitHub Streak" />
 
