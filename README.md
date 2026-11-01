@@ -17,13 +17,13 @@
   
   I enjoy deconstructing how software works under the hood and turning those architectural insights into reliable, production-grade systems:
   
-  - 🛠️ **Full-Stack & Backend Engineering:** Crafting clean, type-safe APIs, resilient data flows (ACL patterns), and responsive modern interfaces.                
-    - 🤖 **AI-Native & Agentic Workflows:** Developing autonomous agent pipelines, Model Context Protocol (MCP) integrations, and developer-first automations.       
-    - 🔬 **Systems & Deep Architecture:** Exploring system design from binary/native disassembly to multi-threaded engines and cloud infrastructure.                 
+  -  **Full-Stack & Backend Engineering:** Crafting clean, type-safe APIs, resilient data flows (ACL patterns), and responsive modern interfaces.                
+  -  **AI-Native & Agentic Workflows:** Developing autonomous agent pipelines, Model Context Protocol (MCP) integrations, and developer-first automations.       
+  -  **Systems & Deep Architecture:** Exploring system design from binary/native disassembly to multi-threaded engines and cloud infrastructure.                 
   
-    **Focus:** AI-Native Engineering & Full-Stack Development  
-    **Interests:** Backend Systems, Web Architecture, AI Agents, Automation, Reverse-Engineering  
-    **Currently Exploring:** Distributed System Design, Cloud Infrastructure, and AI Engineering
+   **Focus:** AI-Native Engineering & Full-Stack Development  
+   **Interests:** Backend Systems, Web Architecture, AI Agents, Automation, Reverse-Engineering  
+   **Currently Exploring:** Distributed System Design, Cloud Infrastructure, and AI Engineering
 
 
 GitHub: @FlashDIvine
