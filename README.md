@@ -86,13 +86,16 @@ GitHub: @FlashDIvine
     
 ---
 
----
 ## GitHub Analytics
 
- <div align="center">
-      <h3>📅 Year-Round Execution Ledger (Contributions Heatmap)</h3>                                                                                                
-      <img src="https://ghchart.rshah.org/E61937/FlashDIvine" alt="FlashDIvine GitHub Contributions in the Last Year" width="100%" />
-    </div>
+<div align="center">
+  <h3>🐍 Tactical Execution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 
 ---
