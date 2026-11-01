@@ -10,7 +10,7 @@
 
 </div>
 
-About Me
+## About Me
 
 I'm Ade Ainun Najib, a software development student interested in building modern applications and exploring AI-native software engineering.
 
