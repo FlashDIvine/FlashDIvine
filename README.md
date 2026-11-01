@@ -1,13 +1,3 @@
-🩸 Confidential Dossier: Operative Records
-Key Metrics:
-
-Architecture: Microservices, Event-Driven, Kernel Telemetry
-
-Infrastructure: Containerized, Declarative, Automated CI/CD
-
-Operational Directive: "Beg favors from no one; build what is required."
-
-
 </td>
 </tr>
 </table>
