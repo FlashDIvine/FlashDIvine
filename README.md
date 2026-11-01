@@ -1,17 +1,16 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D11,55:1F0408,100:E61937&height=190&section=header&text=ADE%20AINUN%20NAJIB&fontSize=42&fontColor=E8E8EC&fontAlignY=38&desc=AI-Native%20Engineer%20%7C%20Full-Stack%20Developer&descColor=B0B3BA&descAlignY=60" width="100%" alt="Ade Ainun Najib Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=E61937&center=true&vCenter=true&width=700&height=45&lines=Building+Software+with+Purpose.;Engineering+Reliable+Systems.;Exploring+AI-Native+Development.;Learning%2C+Building%2C+Improving." alt="Introduction" />
+<img src="./assets/arlecchino-chibi.png" width="150" alt="Arlecchino Chibi" />
 
 <br/>
 
-<a href="https://github.com/FlashDIvine">
-  <img src="./assets/arlecchino-banner.jpg" width="96%" alt="Personal Banner" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=E61937&center=true&vCenter=true&width=700&height=45&lines=Building+Software+with+Purpose.;Engineering+Reliable+Systems.;Exploring+AI-Native+Development.;Learning%2C+Building%2C+Improving" alt="Introduction" />
 
 </div>
-
+```
 ---
 
 ## About Me
