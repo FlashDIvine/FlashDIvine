@@ -85,7 +85,6 @@ GitHub: @FlashDIvine
 ---
 
 ---
-
 ## GitHub Analytics
 
 <div align="center">
@@ -99,7 +98,6 @@ GitHub: @FlashDIvine
 <img width="80%" src="https://streak-stats.demolab.com/?user=FlashDIvine&background=0D0D11&border=4A0E17&stroke=4A0E17&ring=E61937&fire=E61937&currStreakNum=E8E8EC&sideNums=E8E8EC&currStreakLabel=E61937&border_radius=8" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## Connect
