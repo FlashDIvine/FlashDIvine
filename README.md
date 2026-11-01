@@ -31,59 +31,58 @@ GitHub: @FlashDIvine
 ## Tech Stack
 
 ### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D0D11?style=for-the-badge&logo=javascript&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/TypeScript-0D0D11?style=for-the-badge&logo=typescript&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/PHP-0D0D11?style=for-the-badge&logo=php&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/HTML5-0D0D11?style=for-the-badge&logo=html5&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/CSS3-0D0D11?style=for-the-badge&logo=css3&logoColor=E61937" />
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-0D0D11?style=for-the-badge&logo=react&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Next.js-0D0D11?style=for-the-badge&logo=nextdotjs&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Vite-0D0D11?style=for-the-badge&logo=vite&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D11?style=for-the-badge&logo=tailwindcss&logoColor=E61937" />
-</p>
-
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D0D11?style=for-the-badge&logo=nodedotjs&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/NestJS-0D0D11?style=for-the-badge&logo=nestjs&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Express.js-0D0D11?style=for-the-badge&logo=express&logoColor=E61937" />
-</p>
-
-### Database & ORM
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D0D11?style=for-the-badge&logo=postgresql&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/MariaDB-0D0D11?style=for-the-badge&logo=mariadb&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Prisma-0D0D11?style=for-the-badge&logo=prisma&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Supabase-0D0D11?style=for-the-badge&logo=supabase&logoColor=E61937" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-0D0D11?style=for-the-badge&logo=docker&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Linux-0D0D11?style=for-the-badge&logo=linux&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Git-0D0D11?style=for-the-badge&logo=git&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/GitHub-0D0D11?style=for-the-badge&logo=github&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/pnpm-0D0D11?style=for-the-badge&logo=pnpm&logoColor=E61937" />
-</p>
-
-### AI Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Gemini-0D0D11?style=for-the-badge&logo=googlegemini&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Antigravity-0D0D11?style=for-the-badge&logo=google&logoColor=E61937" />
-  <img src="https://img.shields.io/badge/Hermes_Agent-0D0D11?style=for-the-badge&logo=python&logoColor=E61937" />
-</p>
-
+   <p>
+      <img src="https://img.shields.io/badge/TypeScript-0D0D11?style=for-the-badge&logo=typescript&logoColor=E61937" alt="TypeScript" />                             
+      <img src="https://img.shields.io/badge/JavaScript-0D0D11?style=for-the-badge&logo=javascript&logoColor=E61937" alt="JavaScript" />                             
+      <img src="https://img.shields.io/badge/Python-0D0D11?style=for-the-badge&logo=python&logoColor=E61937" alt="Python" />                                         
+      <img src="https://img.shields.io/badge/PHP-0D0D11?style=for-the-badge&logo=php&logoColor=E61937" alt="PHP" />                                                  
+      <img src="https://img.shields.io/badge/Bash-0D0D11?style=for-the-badge&logo=gnubash&logoColor=E61937" alt="Bash" />                                            
+      <img src="https://img.shields.io/badge/HTML5-0D0D11?style=for-the-badge&logo=html5&logoColor=E61937" alt="HTML5" />                                            
+      <img src="https://img.shields.io/badge/CSS3-0D0D11?style=for-the-badge&logo=css3&logoColor=E61937" alt="CSS3" />                                               
+    </p>
+  
+   ### Frontend Development
+   <p>                                                                                                                                                              
+      <img src="https://img.shields.io/badge/React-0D0D11?style=for-the-badge&logo=react&logoColor=E61937" alt="React" />                                            
+      <img src="https://img.shields.io/badge/Next.js-0D0D11?style=for-the-badge&logo=nextdotjs&logoColor=E61937" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Astro-0D0D11?style=for-the-badge&logo=astro&logoColor=E61937" alt="Astro" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D11?style=for-the-badge&logo=tailwindcss&logoColor=E61937" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Vite-0D0D11?style=for-the-badge&logo=vite&logoColor=E61937" alt="Vite" />
+    </p>
+  
+   ### Backend & API Engineering
+   <p>
+      <img src="https://img.shields.io/badge/Node.js-0D0D11?style=for-the-badge&logo=nodedotjs&logoColor=E61937" alt="Node.js" />
+      <img src="https://img.shields.io/badge/NestJS-0D0D11?style=for-the-badge&logo=nestjs&logoColor=E61937" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Express.js-0D0D11?style=for-the-badge&logo=express&logoColor=E61937" alt="Express.js" />
+      <img src="https://img.shields.io/badge/Postman-0D0D11?style=for-the-badge&logo=postman&logoColor=E61937" alt="Postman" />
+    </p>
+   ### Database & Storage Engine
+    <p>
+      <img src="https://img.shields.io/badge/PostgreSQL-0D0D11?style=for-the-badge&logo=postgresql&logoColor=E61937" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-0D0D11?style=for-the-badge&logo=redis&logoColor=E61937" alt="Redis" />
+      <img src="https://img.shields.io/badge/MariaDB-0D0D11?style=for-the-badge&logo=mariadb&logoColor=E61937" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/Prisma-0D0D11?style=for-the-badge&logo=prisma&logoColor=E61937" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Supabase-0D0D11?style=for-the-badge&logo=supabase&logoColor=E61937" alt="Supabase" />
+    </p>
+  
+  ### Tools & Infrastructure
+   <p>
+      <img src="https://img.shields.io/badge/Docker-0D0D11?style=for-the-badge&logo=docker&logoColor=E61937" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-0D0D11?style=for-the-badge&logo=linux&logoColor=E61937" alt="Linux" />
+      <img src="https://img.shields.io/badge/Git-0D0D11?style=for-the-badge&logo=git&logoColor=E61937" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-0D0D11?style=for-the-badge&logo=github&logoColor=E61937" alt="GitHub" />
+      <img src="https://img.shields.io/badge/pnpm-0D0D11?style=for-the-badge&logo=pnpm&logoColor=E61937" alt="pnpm" />
+    </p>
+  
+  ### AI-Native Engineering & Agentic Tools
+   <p>
+      <img src="https://img.shields.io/badge/Model_Context_Protocol-0D0D11?style=for-the-badge&logo=anthropic&logoColor=E61937" alt="MCP" />
+      <img src="https://img.shields.io/badge/Gemini-0D0D11?style=for-the-badge&logo=googlegemini&logoColor=E61937" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Antigravity-0D0D11?style=for-the-badge&logo=google&logoColor=E61937" alt="Antigravity" />
+      <img src="https://img.shields.io/badge/Hermes_Agent-0D0D11?style=for-the-badge&logo=python&logoColor=E61937" alt="Hermes Agent" />
+    </p>
+    
 ---
 
 ---
