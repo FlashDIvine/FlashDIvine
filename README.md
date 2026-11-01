@@ -89,12 +89,31 @@ GitHub: @FlashDIvine
 ## GitHub Analytics
 
 <div align="center">
-  <h3>🩸 Tactical Contribution Graph</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg">
-    <img alt="Tactical Contribution Graph" src="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+<table border="0" width="100%">
+  <tr align="center">
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=FlashDIvine&show_icons=true&title_color=E61937&icon_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=6&hide_border=false" width="100%" alt="GitHub Core Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FlashDIvine&layout=compact&title_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=6&hide_border=false" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=FlashDIvine&background=0D0D11&border=4A0E17&stroke=4A0E17&ring=E61937&fire=E61937&currStreakNum=E8E8EC&sideNums=E8E8EC&currStreakLabel=E61937&border_radius=6" width="100%" alt="Execution Streak" />
+
+<br/><br/>
+
+<h3>🩸 Tactical Contribution Graph</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg">
+  <img alt="Tactical Contribution Graph" src="https://raw.githubusercontent.com/FlashDIvine/FlashDIvine/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 </div>
 
 
