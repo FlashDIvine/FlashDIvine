@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D11,55:1F0408,100:E61937&height=190&section=header&text=ADE%20AINUN%20NAJIB&fontSize=42&fontColor=E8E8EC&fontAlignY=38&desc=AI-Native%20Engineer%20%7C%20Full-Stack%20Developer&descColor=B0B3BA&descAlignY=60" width="100%" alt="Ade Ainun Najib Header" />
@@ -10,23 +9,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=E61937&center=true&vCenter=true&width=700&height=45&lines=Building+Software+with+Purpose.;Engineering+Reliable+Systems.;Exploring+AI-Native+Development.;Learning%2C+Building%2C+Improving" alt="Introduction" />
 
 </div>
-```
----
 
-## About Me
+About Me
 
-I'm **Ade Ainun Najib**, a software development student interested in building modern applications and exploring AI-native software engineering.
+I'm Ade Ainun Najib, a software development student interested in building modern applications and exploring AI-native software engineering.
 
 My primary focus is full-stack development, backend engineering, API integration, and AI-assisted development workflows.
 
 I enjoy turning ideas into functional software, understanding system architecture, and continuously improving my engineering skills.
 
-- **Focus:** AI-Native Engineering & Full-Stack Development
-- **Interests:** Backend Systems, Web Development, AI Agents, Automation
-- **Currently Exploring:** System Design, Cloud Infrastructure, and AI Engineering
-- **GitHub:** [@FlashDIvine](https://github.com/FlashDIvine)
+Focus: AI-Native Engineering & Full-Stack Development
 
----
+Interests: Backend Systems, Web Development, AI Agents, Automation
+
+Currently Exploring: System Design, Cloud Infrastructure, and AI Engineering
+
+GitHub: @FlashDIvine
 
 ## Tech Stack
 
