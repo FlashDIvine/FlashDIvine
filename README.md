@@ -1,47 +1,89 @@
-# Hi there, I'm Ade Ainun Najib 👋
+---
 
-> **Full-Stack Developer | Linux Enthusiast | AI-Assisted Engineering**  
-> Focusing on scalable web apps, clean code, and modern developer tooling.
+### ❖ DOKTRIN PENGEMBANGAN & SPESIALISASI
+
+Eksekusi perangkat lunak diarahkan pada integritas arsitektur mutlak dan ketahanan komputasi tinggi. Redundansi dependensi eksternal dieliminasi secara sistematis guna menjamin efisiensi runtime dan determinisme algoritma.
+
+- ⚔️ **Sistem Inti & Komputasi Konkuren:** Rekayasa backend berdaya tampung masif, orkestrasi microservices, dan manajemen alokasi memori berlatensi rendah.
+- 🩸 **Penyelesaian Anomali (Bond of Life):** Eliminasi bug kritis dan peredaman anomali sistemik dengan penanganan galat asinkron yang ketat.
+- 🕯️ **Integritas Data Transaksional:** Arsitektur basis data relasional dengan proteksi kriptografis end-to-end tanpa toleransi kebocoran data.
+- 🕸️ **Jaringan Operasional Terdistribusi:** Penjadwalan pipeline CI/CD otonom, observabilitas kluster kontainer, dan isolasi lingkungan produksi.
 
 ---
 
-### 📌 About Me
-
-- 🔭 Currently building and refining full-stack applications.
-- ⚡ Focusing on **Next.js, Express, PostgreSQL, and Linux environments**.
-- 🛠️ Exploring AI-native workflows, CLI tools, and design system architectures.
-- 💬 Ask me about: **TypeScript, Node.js, Database Design, & Linux setups**.
-- 📫 Reach me at: `najib@gmail.com` or https://www.linkedin.com/in/ade-ainun-najib/
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-**Languages & Frameworks**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
+### ❖ INVENTARIS TEKNOLOGI & PERSENJATAAN
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<!-- BAHASA PEMROGRAMAN UTAMA -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-0D0E12?style=for-the-badge&logo=rust&logoColor=white&color=8A0A10" alt="Rust"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-0D0E12?style=for-the-badge&logo=cplusplus&logoColor=white&color=8A0A10" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-0D0E12?style=for-the-badge&logo=go&logoColor=white&color=8A0A10" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D0E12?style=for-the-badge&logo=typescript&logoColor=white&color=8A0A10" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-0D0E12?style=for-the-badge&logo=python&logoColor=white&color=8A0A10" alt="Python"/>
+</p>
+
+<!-- PLATFORM & INFRASTRUKTUR -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-0D0E12?style=for-the-badge&logo=linux&logoColor=white&color=8A0A10" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0D0E12?style=for-the-badge&logo=kubernetes&logoColor=white&color=8A0A10" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-0D0E12?style=for-the-badge&logo=docker&logoColor=white&color=8A0A10" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D0E12?style=for-the-badge&logo=postgresql&logoColor=white&color=8A0A10" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-0D0E12?style=for-the-badge&logo=redis&logoColor=white&color=8A0A10" alt="Redis"/>
+</p>
+
 </div>
 
+---
+
+### ❖ METRIK LOGISTIK & AKTIVITAS HARBINGER
+
+<div align="center">
+
+<!-- TABEL TATA LETAK DUA KOLOM UNTUK KARTU STATS DAN STREAK -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username={GITHUB_USERNAME}&show_icons=true&bg_color=0D0E12&title_color=E61C24&text_color=D4D7E1&icon_color=E61C24&border_color=8A0A10&hide_border=false" width="100%" alt="GitHub Overall Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user={GITHUB_USERNAME}&background=0D0E12&border=8A0A10&stroke=2B2D38&ring=E61C24&fire=E61C24&currStreakNum=FFFFFF&sideNums=D4D7E1&currStreakLabel=E61C24&dates=7E828C" width="100%" alt="GitHub Streak Tracker" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&layout=compact&bg_color=0D0E12&title_color=E61C24&text_color=D4D7E1&border_color=8A0A10&hide_border=false" width="100%" alt="Top Languages Overview" />
+    </td>
+  </tr>
+</table>
+
+<!-- GRAFIK AKTIVITAS 31 HARI PENUH -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username={GITHUB_USERNAME}&bg_color=0D0E12&color=D4D7E1&line=E61C24&point=FFFFFF&area=true&area_color=8A0A10&border_color=2B2D38&custom_title=BALLAD%20OF%20CONTRIBUTION%20RECORDS" width="100%" alt="GitHub Activity Graph" />
 </p>
+
+</div>
+
+---
+
+### ❖ REPOSITORI TERPILIH // OPERASI KHUSUS
+
+| Nama Operasi | Sasaran Arsitektural | Stack Teknologi | Status Sistem |
+| :--- | :--- | :--- | :--- |
+| **Balemoon-Engine** | Mesin pemrosesan transaksi berlatensi ultra-rendah untuk arsitektur event-driven terdistribusi. | `Rust`, `Tokio`, `gRPC` | `ACTIVE // OPTIMIZED` |
+| **All-Is-Ash Telemetry** | Platform analitik dan ingestion log real-time berskala tinggi berbasis partisi terdistribusi. | `Go`, `Apache Kafka`, `ClickHouse` | `DEPLOYED` |
+| **Hearth-Guardian Vault** | Layanan otorisasi berbasis Zero Trust dengan protokol WebAuthn dan enkripsi asimetris. | `TypeScript`, `PostgreSQL`, `Vault` | `SEALED` |
+
+---
+
+<div align="center">
+
+<!-- FOOTER DIVIDER: CRISP SLICE TERMINATION -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=E61C24,8A0A10,0D0E12&height=90&section=footer" width="100%" alt="Arlecchino Footer Divider"/>
+
+<p align="center">
+  <sub>Operasional di bawah pengawasan langsung <b>The Fourth Fatui Harbinger, Peruere</b>. Seluruh anomali sistemik akan diselesaikan dengan disiplin mutlak.</sub>
+</p>
+
+</div>
