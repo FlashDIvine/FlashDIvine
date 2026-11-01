@@ -84,13 +84,15 @@ GitHub: @FlashDIvine
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FlashDIvine&show_icons=true&title_color=E61937&icon_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=FlashDIvine&show_icons=true&title_color=E61937&icon_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" height="180" alt="GitHub Statistics" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDIvine&layout=compact&title_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDIvine&layout=compact&title_color=E61937&text_color=E8E8EC&bg_color=0D0D11&border_color=4A0E17&border_radius=8" height="180" alt="Top Languages" />
 
 <br/><br/>
 
